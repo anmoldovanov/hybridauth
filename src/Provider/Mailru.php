@@ -25,12 +25,12 @@ class Mailru extends OAuth2
     /**
      * {@inheritdoc}
      */
-    protected $authorizeUrl = 'https://connect.mail.ru/oauth/authorize';
+    protected $authorizeUrl = 'https://oauth.mail.ru/login';
 
     /**
      * {@inheritdoc}
      */
-    protected $accessTokenUrl = 'https://connect.mail.ru/oauth/token';
+    protected $accessTokenUrl = 'https://oauth.mail.ru/token';
 
     /**
      * {@inheritdoc}
