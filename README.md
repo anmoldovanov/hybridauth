@@ -1,4 +1,4 @@
-## [Hybridauth](https://hybridauth.github.io/) 3.6
+## [Hybridauth](https://hybridauth.github.io/) 3.6 test
 
 [![Build Status](https://travis-ci.org/hybridauth/hybridauth.svg?branch=master)](https://travis-ci.org/hybridauth/hybridauth) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/hybridauth/hybridauth/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/hybridauth/hybridauth/?branch=master) [![Latest Stable Version](https://poser.pugx.org/hybridauth/hybridauth/v/stable.png)](https://packagist.org/packages/hybridauth/hybridauth) [![Join the chat at https://gitter.im/hybridauth/hybridauth](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/hybridauth/hybridauth?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -35,9 +35,9 @@ catch (\Exception $e) {
 
 #### Requirements
 
-* PHP 5.4+
-* PHP Session
-* PHP cURL
+-   PHP 5.4+
+-   PHP Session
+-   PHP cURL
 
 #### Installation
 
@@ -46,7 +46,7 @@ To install Hybridauth we recommend [Composer](https://getcomposer.org/), the now
 #### Versions Status
 
 | Version | Status      | Repository              | Documentation           | PHP Version |
-|---------|-------------|-------------------------|-------------------------|-------------|
+| ------- | ----------- | ----------------------- | ----------------------- | ----------- |
 | 2.x     | Maintenance | [v2][hybridauth-2-repo] | [v2][hybridauth-2-docs] | >= 5.3      |
 | 3.x     | Development | [v3][hybridauth-3-repo] | [v3][hybridauth-3-docs] | >= 5.4      |
 | 4.x     | Future      | --                      | --                      | >= 7.3      |
